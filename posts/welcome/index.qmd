@@ -1,11 +1,11 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-06-11"
+author: "Rigan Tytherleigh"
+date: "2025-06-14"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome to my Quarto blog!
 
 ![](thumbnail.jpg)
 
