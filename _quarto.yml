@@ -5,6 +5,8 @@ project:
 website:
   title: "Rigan's Health Data Science Blog"
   navbar:
+    left: 
+      - publications.qmd
     right:
       - about.qmd
       - icon: github
@@ -14,7 +16,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
     css: styles.css
 

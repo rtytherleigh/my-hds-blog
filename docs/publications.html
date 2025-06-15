@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Rigan’s Health Data Science Blog</title>
+<title>Publications – Rigan’s Health Data Science Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,73 +66,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -149,7 +89,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -176,118 +116,43 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Rigan’s Health Data Science Blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="YW5hbHlzaXM=">analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29kZQ==">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Publications</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Martyn, M., Lee, L., Jan, A., <strong><em>Tytherleigh, R.</em></strong>, Lynch, F., Mighton, C., Bouffler, S. E., Lynch, E., Macciocca, I., Curnow, L., McCorkell, G., Lunke, S., Chong, B., Delatycki, M. B., Downie, L., Vears, D., Best, S., Clausen, M., Bombard, Y., Stark, Z., &amp; Gaff, C. (2024). Offering complex genomic screening in acute pediatric settings: Family decision-making and outcomes. <em>Genetics in Medicine, 27</em>(2), 101327. <a href="https://doi.org/10.1016/j.gim.2024.101327">https://doi.org/10.1016/j.gim.2024.101327</a></p>
+<p>Maher, F., Nisselle, A., Lynch, E., Martyn, M., <strong><em>Tytherleigh, R.</em></strong>, Charles, T., &amp; Gaff, C. (2023). Genomics education for medical specialists: Case-based specialty workshops and blended learning. <em>Journal of Translational Genetics and Genomics, 7</em>(2), 94–109. <a href="http://dx.doi.org/10.20517/jtgg.2023.04">doi:http://dx.doi.org/10.20517/jtgg.2023.04</a></p>
+<p>Jayasinghe, K., Stark, Z., Kerr, P. G., Gaff, C., Martyn, M., Whitlam, J., Creighton, B., Donaldson, E., Hunter, M., Jarmolowicz, A., Johnstone, L., Krzesinski, E., Lunke, S., Lynch, E., Nicholls, K., Patel, C., Prawer, Y., Ryan, J., See, E. J., Talbot, A., Trainer, A., <strong><em>Tytherleigh, R.</em></strong>, Valente, G., Wallis, M., Wardrop, L., West, K. H., White, S. M., Wilkins, E., Mallett, A. J., &amp; Quinlan, C. (2021). Clinical impact of genomic testing in patients with suspected monogenic kidney disease. <em>Genetics in Medicine, 23</em>(1), 183–191. <a href="https://doi.org/10.1038/s41436-020-00963-4">https://doi.org/10.1038/s41436-020-00963-4</a></p>
+<p>Tutty, E., Hickerton, C., Terrill, B., McClaren, B., <strong><em>Tytherleigh, R.</em></strong>, Stackpoole, E., Savard, J., Newson, A., Middleton, A., Nisselle, A., Cusack, M., Adamski, M., Gaff, C., &amp; Metcalfe, S. (2021). The expectations and realities of nutrigenomic testing in Australia: A qualitative study. <em>Health Expectations, 24</em>(2), 670–686. <a href="https://doi.org/10.1111/hex.13216">https://doi.org/10.1111/hex.13216</a></p>
+<p>Savard, J., Hickerton, C., <strong><em>Tytherleigh, R.</em></strong>, Terrill, B., Turbitt, E., Newson, A. J., Wilson, B., Gray, K., Gaff, C., Middleton, A., Stackpoole, E., &amp; Metcalfe, S. (2019). Australians’ views and experience of personal genomic testing: Survey findings from the Genioz study. <em>European Journal of Human Genetics, 27</em>(5), 711–720. <a href="https://doi.org/10.1038/s41431-018-0325-x">https://doi.org/10.1038/s41431-018-0325-x</a></p>
+<p>Metcalfe, S. A., Hickerton, C., Savard, J., Stackpoole, E., <strong><em>Tytherleigh, R.</em></strong>, Tutty, E., Terrill, B., Turbitt, E., Gray, K., Middleton, A., Wilson, B., Newson, A., &amp; Gaff, C. (2019). Australians’ perspectives on support around use of personal genomic testing: Findings from the Genioz Study. <em>European Journal of Medical Genetics, 62</em>(5), 290–299. <a href="https://doi.org/10.1016/j.ejmg.2018.11.002">https://doi.org/10.1016/j.ejmg.2018.11.002</a></p>
+<p>Gray, K., Stephen, R., Terrill, B., Wilson, B., Middleton, A., <strong><em>Tytherleigh, R.</em></strong>, Turbitt, E., Gaff, C., Savard, J., Hickerton, C., Newson, A., &amp; Metcalfe, S. (2018). Consumer health informatics aspects of direct-to-consumer personal genomic testing. <em>Studies in Health Technology and Informatics, 245</em>, 89–93.<a href="https://doi.org/10.3233/978-1-61499-830-3-89">https://doi.org/10.3233/978-1-61499-830-3-89</a></p>
 
 
 
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ2NvZGUlMkNhbmFseXNpcw==" data-listing-date-sort="1749852000000" data-listing-file-modified-sort="1749919178442" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
-<div class="thumbnail">
-<p><a href="./posts/post-with-code/index.html" class="no-external"></a></p><a href="./posts/post-with-code/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/post-with-code/image.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/post-with-code/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/post-with-code/index.html" class="no-external">Post With Code</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/post-with-code/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Y29kZQ=='); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('YW5hbHlzaXM='); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/post-with-code/index.html" class="no-external">This is a post with executable code.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/post-with-code/index.html" class="no-external">
-<div class="listing-date">
-Jun 14, 2025
-</div>
-<div class="listing-author">
-Rigan Tytherleigh
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1749852000000" data-listing-file-modified-sort="1749919149890" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html" class="no-external"></a></p><a href="./posts/welcome/index.html" class="no-external">
-<p class="card-img-top"><img src="posts/welcome/thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/index.html" class="no-external">Welcome to my Quarto blog!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Jun 14, 2025
-</div>
-<div class="listing-author">
-Rigan Tytherleigh
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

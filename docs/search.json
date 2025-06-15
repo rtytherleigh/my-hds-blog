@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Hi, I’m Rigan, and welcome to my website!\nI’m a data manager and university tutor, based in Melbourne, Australia. I have a background in genomics, and through my work as a research assistant discovered a love for all things data management. I’m interested working to understand how we can work with data better, since in many medical research projects, it’s a real privilege to be able to work with patient data. I am also passionate about data visualisation, and how we can communicate the results of our research in a way that everyone can understand, and ensuring we make our research as accessible as possible.\nThis website will document my learnings and adventures in data science.\nWhen I’m not geeking out over data, I can be found crocheting (which involves a surprising amount of maths), reading, or travelling."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rigan’s Health Data Science Blog",
     "section": "",
-    "text": "Welcome to my Quarto blog!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nRigan Tytherleigh\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nRigan Tytherleigh\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -21,10 +21,17 @@
     "text": "This is a post with executable code.\n\nlog(35)\n\n[1] 3.555348"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rigan’s Health Data Science Blog",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nRigan Tytherleigh\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nRigan Tytherleigh\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my Quarto blog!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Martyn, M., Lee, L., Jan, A., Tytherleigh, R., Lynch, F., Mighton, C., Bouffler, S. E., Lynch, E., Macciocca, I., Curnow, L., McCorkell, G., Lunke, S., Chong, B., Delatycki, M. B., Downie, L., Vears, D., Best, S., Clausen, M., Bombard, Y., Stark, Z., & Gaff, C. (2024). Offering complex genomic screening in acute pediatric settings: Family decision-making and outcomes. Genetics in Medicine, 27(2), 101327. https://doi.org/10.1016/j.gim.2024.101327\nMaher, F., Nisselle, A., Lynch, E., Martyn, M., Tytherleigh, R., Charles, T., & Gaff, C. (2023). Genomics education for medical specialists: Case-based specialty workshops and blended learning. Journal of Translational Genetics and Genomics, 7(2), 94–109. doi:http://dx.doi.org/10.20517/jtgg.2023.04\nJayasinghe, K., Stark, Z., Kerr, P. G., Gaff, C., Martyn, M., Whitlam, J., Creighton, B., Donaldson, E., Hunter, M., Jarmolowicz, A., Johnstone, L., Krzesinski, E., Lunke, S., Lynch, E., Nicholls, K., Patel, C., Prawer, Y., Ryan, J., See, E. J., Talbot, A., Trainer, A., Tytherleigh, R., Valente, G., Wallis, M., Wardrop, L., West, K. H., White, S. M., Wilkins, E., Mallett, A. J., & Quinlan, C. (2021). Clinical impact of genomic testing in patients with suspected monogenic kidney disease. Genetics in Medicine, 23(1), 183–191. https://doi.org/10.1038/s41436-020-00963-4\nTutty, E., Hickerton, C., Terrill, B., McClaren, B., Tytherleigh, R., Stackpoole, E., Savard, J., Newson, A., Middleton, A., Nisselle, A., Cusack, M., Adamski, M., Gaff, C., & Metcalfe, S. (2021). The expectations and realities of nutrigenomic testing in Australia: A qualitative study. Health Expectations, 24(2), 670–686. https://doi.org/10.1111/hex.13216\nSavard, J., Hickerton, C., Tytherleigh, R., Terrill, B., Turbitt, E., Newson, A. J., Wilson, B., Gray, K., Gaff, C., Middleton, A., Stackpoole, E., & Metcalfe, S. (2019). Australians’ views and experience of personal genomic testing: Survey findings from the Genioz study. European Journal of Human Genetics, 27(5), 711–720. https://doi.org/10.1038/s41431-018-0325-x\nMetcalfe, S. A., Hickerton, C., Savard, J., Stackpoole, E., Tytherleigh, R., Tutty, E., Terrill, B., Turbitt, E., Gray, K., Middleton, A., Wilson, B., Newson, A., & Gaff, C. (2019). Australians’ perspectives on support around use of personal genomic testing: Findings from the Genioz Study. European Journal of Medical Genetics, 62(5), 290–299. https://doi.org/10.1016/j.ejmg.2018.11.002\nGray, K., Stephen, R., Terrill, B., Wilson, B., Middleton, A., Tytherleigh, R., Turbitt, E., Gaff, C., Savard, J., Hickerton, C., Newson, A., & Metcalfe, S. (2018). Consumer health informatics aspects of direct-to-consumer personal genomic testing. Studies in Health Technology and Informatics, 245, 89–93.https://doi.org/10.3233/978-1-61499-830-3-89"
   }
 ]

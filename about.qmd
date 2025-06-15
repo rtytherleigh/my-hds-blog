@@ -1,19 +1,24 @@
 ---
 title: "About"
-image: profile.jpg
+image: "Rigan Tytherleigh square.jpg"
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/rigan-tytherleigh/ 
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/rtytherleigh
+    - icon: email
+      text: Email
+      href: mailto:rtytherleigh@gmail.com  
 ---
 
-About this blog
+Hi, I'm Rigan, and welcome to my website!
+
+I'm a data manager and university tutor, based in Melbourne, Australia. I have a background in genomics, and through my work as a research assistant discovered a love for all things data management. I'm interested working to understand how we can work with data better, since in many medical research projects, it's a real privilege to be able to work with patient data. I am also passionate about data visualisation, and how we can communicate the results of our research in a way that everyone can understand, and ensuring we make our research as accessible as possible.
+
+This website will document my learnings and adventures in data science.
+
+When I'm not geeking out over data, I can be found crocheting (which involves a surprising amount of maths), reading, or travelling.

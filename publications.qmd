@@ -1,0 +1,18 @@
+---
+title: "Publications"
+format: html
+---
+
+Martyn, M., Lee, L., Jan, A., ***Tytherleigh, R.***, Lynch, F., Mighton, C., Bouffler, S. E., Lynch, E., Macciocca, I., Curnow, L., McCorkell, G., Lunke, S., Chong, B., Delatycki, M. B., Downie, L., Vears, D., Best, S., Clausen, M., Bombard, Y., Stark, Z., & Gaff, C. (2024). Offering complex genomic screening in acute pediatric settings: Family decision-making and outcomes. *Genetics in Medicine, 27*(2), 101327. [https://doi.org/10.1016/j.gim.2024.101327](https://doi.org/10.1016/j.gim.2024.101327)
+
+Maher, F., Nisselle, A., Lynch, E., Martyn, M., ***Tytherleigh, R.***, Charles, T., & Gaff, C. (2023). Genomics education for medical specialists: Case-based specialty workshops and blended learning. *Journal of Translational Genetics and Genomics, 7*(2), 94–109. [doi:http://dx.doi.org/10.20517/jtgg.2023.04](http://dx.doi.org/10.20517/jtgg.2023.04)  
+
+Jayasinghe, K., Stark, Z., Kerr, P. G., Gaff, C., Martyn, M., Whitlam, J., Creighton, B., Donaldson, E., Hunter, M., Jarmolowicz, A., Johnstone, L., Krzesinski, E., Lunke, S., Lynch, E., Nicholls, K., Patel, C., Prawer, Y., Ryan, J., See, E. J., Talbot, A., Trainer, A., ***Tytherleigh, R.***, Valente, G., Wallis, M., Wardrop, L., West, K. H., White, S. M., Wilkins, E., Mallett, A. J., & Quinlan, C. (2021). Clinical impact of genomic testing in patients with suspected monogenic kidney disease. *Genetics in Medicine, 23*(1), 183–191. [https://doi.org/10.1038/s41436-020-00963-4](https://doi.org/10.1038/s41436-020-00963-4)
+
+Tutty, E., Hickerton, C., Terrill, B., McClaren, B., ***Tytherleigh, R.***, Stackpoole, E., Savard, J., Newson, A., Middleton, A., Nisselle, A., Cusack, M., Adamski, M., Gaff, C., & Metcalfe, S. (2021). The expectations and realities of nutrigenomic testing in Australia: A qualitative study. *Health Expectations, 24*(2), 670–686. [ https://doi.org/10.1111/hex.13216]( https://doi.org/10.1111/hex.13216)
+
+Savard, J., Hickerton, C., ***Tytherleigh, R.***, Terrill, B., Turbitt, E., Newson, A. J., Wilson, B., Gray, K., Gaff, C., Middleton, A., Stackpoole, E., & Metcalfe, S. (2019). Australians’ views and experience of personal genomic testing: Survey findings from the Genioz study. *European Journal of Human Genetics, 27*(5), 711–720. [https://doi.org/10.1038/s41431-018-0325-x](https://doi.org/10.1038/s41431-018-0325-x)
+
+Metcalfe, S. A., Hickerton, C., Savard, J., Stackpoole, E., ***Tytherleigh, R.***, Tutty, E., Terrill, B., Turbitt, E., Gray, K., Middleton, A., Wilson, B., Newson, A., & Gaff, C. (2019). Australians’ perspectives on support around use of personal genomic testing: Findings from the Genioz Study. *European Journal of Medical Genetics, 62*(5), 290–299. [https://doi.org/10.1016/j.ejmg.2018.11.002](https://doi.org/10.1016/j.ejmg.2018.11.002)
+
+Gray, K., Stephen, R., Terrill, B., Wilson, B., Middleton, A., ***Tytherleigh, R.***, Turbitt, E., Gaff, C., Savard, J., Hickerton, C., Newson, A., & Metcalfe, S. (2018). Consumer health informatics aspects of direct-to-consumer personal genomic testing. *Studies in Health Technology and Informatics, 245*, 89–93.[https://doi.org/10.3233/978-1-61499-830-3-89](https://doi.org/10.3233/978-1-61499-830-3-89)
